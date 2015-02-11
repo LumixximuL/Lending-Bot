@@ -15,7 +15,7 @@ def main():
     
     while check == True:
         #Implement check and cancel of open orders
-        #LendAcc.findOpenOffers()
+        LendAcc.findOpenOffers()
         print "Waiting..."
         time.sleep(5)
     
