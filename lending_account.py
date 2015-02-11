@@ -10,15 +10,6 @@ import file_printer
 url = 'https://api.bitfinex.com/v1'
 wallet_url = url + '/balances'
 lend_url = url + '/lendbook/'
-
-#response = urlopen(lend_url)
-#json_obj = json.load(response)
-#bitfinex_ask_library = [[]] * 50
-
-# Uncomment to view JSON output from API   
-#f = open('output_bitfinex_lendbook.json', 'w')
-#f.write(json.dumps(json_obj, indent=4))
-#f.close()
     
 class LendingAccount():
     def __init__(self, currency):
