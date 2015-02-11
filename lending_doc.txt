@@ -1,0 +1,3 @@
+				Lending Transactions
+Date:		 Time:	     Type:  Period:  Currency:  Rate:   Amount:         ID: 
+Fri, 09 Jan 2015 17:13:04    Lend      2        usd     9.271   376.10817775    3839915

@@ -1,0 +1,13 @@
+{
+    "direction": "lend", 
+    "remaining_amount": "376.10817775", 
+    "timestamp": "1420827245.0", 
+    "is_live": true, 
+    "period": 2, 
+    "executed_amount": "0.0", 
+    "currency": "USD", 
+    "rate": "9.668", 
+    "is_cancelled": false, 
+    "original_amount": "376.10817775", 
+    "id": 3837446
+}
