@@ -2,8 +2,8 @@
 #Taylor Webber
 
 #Bitfinex API settings
-bitfinex_key = 'UzJnF6pjIHJZIWQp04zDULdEXIDDtEw4Txd9eYEVcmV'
-bitfinex_secret = 'Ci8ZX9MbWh5WZG80B7lhZBDSPO9dTLGZHu2nIosN9c0'
+bitfinex_key = 'PUBLIC KEY HERE'
+bitfinex_secret = 'PRIVATE KEY HERE'
 
 #File for documentation
 file = "lending_doc.txt"
